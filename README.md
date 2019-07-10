@@ -1,10 +1,10 @@
 # Tutorial Repository
 
-0) [introduction] (#intro) 
+1. [introduction](#intro) 
 
-1) [greg's comment] (#greg)
+2. [greg's comment](#greg)
 
-2) [anna's comment] (#anna)
+3. [anna's comment](#anna)
 
 ### Introduction <a name="intro"></a>
 This is a tutoral!
