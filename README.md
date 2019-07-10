@@ -1,3 +1,3 @@
-# Tutorial Repository - test 2
+# Tutorial Repository - test Chu2
 
 @dchu808
